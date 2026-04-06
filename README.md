@@ -23,4 +23,4 @@ Python · Pandas · Matplotlib · Seaborn
 
 ## 💻 View the Analysis
 
-👉 Open the notebook to explore the full analysis and visualizations.
+👉 Explore the full analysis, visualizations, and data-driven insights in the notebook
