@@ -13,7 +13,11 @@ Data analysis project exploring customer churn drivers and retention strategies 
 - Data Cleaning & Preparation  
 - Exploratory Data Analysis (EDA)  
 - Visual Insights  
-- Business Recommendations  
+- Business Recommendations
+
+## 🛠️ Tools Used
+
+Python · Pandas · Matplotlib · Seaborn
 
 ---
 
