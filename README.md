@@ -39,7 +39,7 @@ Based on the analysis:
 - Identify and target high-risk customers early
 - 
 ## Project File
-📂 [View Full Analysis](./notebooks/customer_churn_analysis.ipynb)
+📂 [View Full Analysis](./Customer%20Churn%20%26%20Retention%20Analysis.ipynb)
 
 ---
 
