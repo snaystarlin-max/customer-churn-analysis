@@ -36,9 +36,10 @@ Based on the analysis:
 - Improve customer onboarding experience to reduce early churn  
 - Encourage long-term contracts through incentives  
 - Provide better value for high-priced plans  
-- Identify and target high-risk customers early  
+- Identify and target high-risk customers early
+- 
 ## Project File
-📂 [View Full Analysis](./netflix_content_analysis.ipynb)
+📂 [View Full Analysis](./notebooks/customer_churn_analysis.ipynb)
 
 ---
 
