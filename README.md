@@ -1,4 +1,4 @@
-# customer-churn-analysis
+# Customer Churn & Retention Analysis
 Data analysis project exploring customer churn drivers and retention strategies using Python
 ## 🚀 Project Structure
 
